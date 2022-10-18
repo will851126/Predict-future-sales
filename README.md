@@ -4,7 +4,7 @@
 
 In this Lab  
 
-Part 1:  you will complete  the process of building and using a  **time-series** analysis  to forecast future sales from historical sales data , and than use of [PySpark](https://spark.apache.org/docs/latest/api/python/index.html) within [Apache Spark in Azure HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-overview) environment to explore  data, transform the data into meaningful features ,build a **Random Forest Regression** model, and utilize the model to predict  next month’s sales numbers.
+Part 1:  We  will complete  the process of building and using a  **time-series** analysis  to forecast future sales from historical sales data , and than use of [PySpark](https://spark.apache.org/docs/latest/api/python/index.html) within [Apache Spark in Azure HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-overview) environment to explore  data, transform the data into meaningful features ,build a **Random Forest Regression** model, and utilize the model to predict  next month’s sales numbers.
 
 
 Part2 : In this tutorial, you learn how to use Microsoft **Power BI** to visualize data in an Apache Spark cluster in **Azure HDInsight** , make get insights from analyzing data to make business decisions more effective.
